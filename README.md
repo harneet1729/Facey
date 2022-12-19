@@ -7,7 +7,7 @@
 ## 2. Dataset
 
 Using a small personal software for regognition of people.
-It had 4 people and 50 images of all of them. Two were young (20s) girls, one was a woman (50s) and one was a child (10s)
+It had 4 people and 50 images of each of them. Two were young (20s) girls, one was a woman (50s) and one was a child (10s)
 
 ## 3. Description
 
